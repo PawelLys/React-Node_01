@@ -1,0 +1,10 @@
+export const leftBurgerBtn = 'BURGER_BTN';
+export const topSettingsBtn = 'SETTINGS_BTN';
+export const topAccountBtn = 'ACCOUNT_BTN';
+export const setResize = 'SET_RESIZE';
+export const addItemsListInput = 'SET_INPUT_ACTIVE';
+export const setTheme = 'SET_THEME';
+export const fetch_user = 'FETCH_USER';
+export const fetching_data = 'FETCHING_DATA';
+export const fetch_err = 'FETCH_ERR';
+export const onLoginBtnClick = 'ON_LOGIN_BTN_CLICK';
